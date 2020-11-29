@@ -9,11 +9,11 @@
     /    /__\
     (\   /____\
 
-Run it on VS
-Voice command available for "YOUTUBE, GOOGLE, PLAYSONG, WIKIPEDIA, CURRENT TIME"
-you can add your ideas on it :)
+    Run it on VS
+    Voice command available for "YOUTUBE, GOOGLE, PLAYSONG, WIKIPEDIA, CURRENT TIME"
+    you can add your ideas on it :)
 '''
 User : hello, my lappy !! open youtube .... 
 User : who is shinchan ! can you open shinchan wikipedia !
 '''
-do whatever you want ;)
+   do whatever you want ;)
