@@ -8,3 +8,7 @@
   / \______/ \/
  /    /__\
 (\   /____\
+
+Run it on VS
+Voice command available for "YOUTUBE, GOOGLE, PLAYSONG, WIKIPEDIA, CURRENT TIME"
+you can add your ideas on it :)
